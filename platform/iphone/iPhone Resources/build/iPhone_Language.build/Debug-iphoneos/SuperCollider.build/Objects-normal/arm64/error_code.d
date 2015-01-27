@@ -1,0 +1,28 @@
+dependencies: \
+  /wd_active/dev_ios/supercollider_iOS/external_libraries/boost/libs/system/src/error_code.cpp \
+  ../../external_libraries/boost/boost/config/warning_disable.hpp \
+  ../../external_libraries/boost/boost/system/config.hpp \
+  ../../external_libraries/boost/boost/config.hpp \
+  ../../external_libraries/boost/boost/config/user.hpp \
+  ../../external_libraries/boost/boost/config/select_compiler_config.hpp \
+  ../../external_libraries/boost/boost/config/compiler/clang.hpp \
+  ../../external_libraries/boost/boost/config/select_stdlib_config.hpp \
+  ../../external_libraries/boost/boost/config/no_tr1/utility.hpp \
+  ../../external_libraries/boost/boost/config/stdlib/libcpp.hpp \
+  ../../external_libraries/boost/boost/config/select_platform_config.hpp \
+  ../../external_libraries/boost/boost/config/platform/macos.hpp \
+  ../../external_libraries/boost/boost/config/posix_features.hpp \
+  ../../external_libraries/boost/boost/config/suffix.hpp \
+  ../../external_libraries/boost/boost/system/api_config.hpp \
+  ../../external_libraries/boost/boost/system/error_code.hpp \
+  ../../external_libraries/boost/boost/cstdint.hpp \
+  ../../external_libraries/boost/boost/assert.hpp \
+  ../../external_libraries/boost/boost/current_function.hpp \
+  ../../external_libraries/boost/boost/operators.hpp \
+  ../../external_libraries/boost/boost/iterator.hpp \
+  ../../external_libraries/boost/boost/detail/workaround.hpp \
+  ../../external_libraries/boost/boost/noncopyable.hpp \
+  ../../external_libraries/boost/boost/utility/enable_if.hpp \
+  ../../external_libraries/boost/boost/cerrno.hpp \
+  ../../external_libraries/boost/boost/config/abi_prefix.hpp \
+  ../../external_libraries/boost/boost/config/abi_suffix.hpp

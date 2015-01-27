@@ -1,0 +1,25 @@
+dependencies: \
+  /wd_active/dev_ios/supercollider_iOS/server/scsynth/SC_Group.cpp \
+  /wd_active/dev_ios/supercollider_iOS/platform/iphone/../../include/server/SC_Group.h \
+  /wd_active/dev_ios/supercollider_iOS/platform/iphone/../../include/plugin_interface/SC_Graph.h \
+  /wd_active/dev_ios/supercollider_iOS/platform/iphone/../../include/plugin_interface/SC_Node.h \
+  /wd_active/dev_ios/supercollider_iOS/platform/iphone/../../include/common/SC_Types.h \
+  /wd_active/dev_ios/supercollider_iOS/platform/iphone/../../include/plugin_interface/SC_Rate.h \
+  /wd_active/dev_ios/supercollider_iOS/platform/iphone/../../include/plugin_interface/SC_SndBuf.h \
+  /wd_active/dev_ios/supercollider_iOS/platform/iphone/../../include/server/SC_GraphDef.h \
+  /wd_active/dev_ios/supercollider_iOS/platform/iphone/../../include/server/SC_SynthDef.h \
+  /wd_active/dev_ios/supercollider_iOS/platform/iphone/../../include/plugin_interface/sc_msg_iter.h \
+  /wd_active/dev_ios/supercollider_iOS/platform/iphone/../../include/common/SC_Endian.h \
+  /wd_active/dev_ios/supercollider_iOS/platform/iphone/../../include/server/HashTable.h \
+  /wd_active/dev_ios/supercollider_iOS/platform/iphone/../../include/common/SC_BoundsMacros.h \
+  /wd_active/dev_ios/supercollider_iOS/platform/iphone/../../include/server/SC_Str4.h \
+  /wd_active/dev_ios/supercollider_iOS/platform/iphone/../../include/plugin_interface/Hash.h \
+  /wd_active/dev_ios/supercollider_iOS/platform/iphone/../../include/server/SC_Prototypes.h \
+  /wd_active/dev_ios/supercollider_iOS/platform/iphone/../../include/common/scsynthsend.h \
+  /wd_active/dev_ios/supercollider_iOS/platform/iphone/../../include/plugin_interface/SC_World.h \
+  /wd_active/dev_ios/supercollider_iOS/platform/iphone/../../include/plugin_interface/SC_RGen.h \
+  /wd_active/dev_ios/supercollider_iOS/platform/iphone/../../include/common/SC_Lock.h \
+  /wd_active/dev_ios/supercollider_iOS/platform/iphone/../../include/server/SC_WorldOptions.h \
+  /wd_active/dev_ios/supercollider_iOS/platform/iphone/../../include/common/SC_Reply.h \
+  /wd_active/dev_ios/supercollider_iOS/platform/iphone/../../include/common/SC_Export.h \
+  /wd_active/dev_ios/supercollider_iOS/platform/iphone/../../include/server/SC_Errors.h

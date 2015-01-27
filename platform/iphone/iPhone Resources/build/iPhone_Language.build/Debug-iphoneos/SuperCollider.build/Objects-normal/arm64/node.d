@@ -1,0 +1,31 @@
+dependencies: \
+  /wd_active/dev_ios/supercollider_iOS/external_libraries/yaml-cpp-0.3.0/src/node.cpp \
+  ../../external_libraries/yaml-cpp-0.3.0/include/yaml-cpp/node.h \
+  ../../external_libraries/yaml-cpp-0.3.0/include/yaml-cpp/dll.h \
+  ../../external_libraries/yaml-cpp-0.3.0/include/yaml-cpp/exceptions.h \
+  ../../external_libraries/yaml-cpp-0.3.0/include/yaml-cpp/mark.h \
+  ../../external_libraries/yaml-cpp-0.3.0/include/yaml-cpp/traits.h \
+  ../../external_libraries/yaml-cpp-0.3.0/include/yaml-cpp/noncopyable.h \
+  ../../external_libraries/yaml-cpp-0.3.0/include/yaml-cpp/conversion.h \
+  ../../external_libraries/yaml-cpp-0.3.0/include/yaml-cpp/null.h \
+  ../../external_libraries/yaml-cpp-0.3.0/include/yaml-cpp/iterator.h \
+  ../../external_libraries/yaml-cpp-0.3.0/include/yaml-cpp/ltnode.h \
+  ../../external_libraries/yaml-cpp-0.3.0/include/yaml-cpp/nodeimpl.h \
+  ../../external_libraries/yaml-cpp-0.3.0/include/yaml-cpp/nodeutil.h \
+  ../../external_libraries/yaml-cpp-0.3.0/include/yaml-cpp/nodereadimpl.h \
+  ../../external_libraries/yaml-cpp-0.3.0/include/yaml-cpp/aliasmanager.h \
+  ../../external_libraries/yaml-cpp-0.3.0/include/yaml-cpp/anchor.h \
+  ../../external_libraries/yaml-cpp-0.3.0/include/yaml-cpp/emitfromevents.h \
+  ../../external_libraries/yaml-cpp-0.3.0/include/yaml-cpp/eventhandler.h \
+  ../../external_libraries/yaml-cpp-0.3.0/include/yaml-cpp/emitter.h \
+  ../../external_libraries/yaml-cpp-0.3.0/include/yaml-cpp/binary.h \
+  ../../external_libraries/yaml-cpp-0.3.0/include/yaml-cpp/emittermanip.h \
+  ../../external_libraries/yaml-cpp-0.3.0/include/yaml-cpp/ostream.h \
+  /wd_active/dev_ios/supercollider_iOS/external_libraries/yaml-cpp-0.3.0/src/iterpriv.h \
+  /wd_active/dev_ios/supercollider_iOS/external_libraries/yaml-cpp-0.3.0/src/nodebuilder.h \
+  /wd_active/dev_ios/supercollider_iOS/external_libraries/yaml-cpp-0.3.0/src/nodeownership.h \
+  /wd_active/dev_ios/supercollider_iOS/external_libraries/yaml-cpp-0.3.0/src/ptr_vector.h \
+  /wd_active/dev_ios/supercollider_iOS/external_libraries/yaml-cpp-0.3.0/src/scanner.h \
+  /wd_active/dev_ios/supercollider_iOS/external_libraries/yaml-cpp-0.3.0/src/stream.h \
+  /wd_active/dev_ios/supercollider_iOS/external_libraries/yaml-cpp-0.3.0/src/token.h \
+  /wd_active/dev_ios/supercollider_iOS/external_libraries/yaml-cpp-0.3.0/src/tag.h
