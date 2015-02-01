@@ -490,6 +490,8 @@ public:
         }
     }
 
+    // kengo: comment out
+    /*
     value_type
     fetch_add(difference_type v, memory_order order = memory_order_seq_cst) volatile
     {
@@ -507,7 +509,8 @@ public:
         } while (!compare_exchange_weak(original, original - v, order, memory_order_relaxed));
         return original;
     }
-
+    */
+    
     bool
     is_lock_free(void) const volatile
     {
