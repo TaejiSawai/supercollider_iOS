@@ -8,33 +8,13 @@
 
 /* Begin PBXBuildFile section */
 		0B09F52114C9D5260048AB9A /* function_attributes.h in Headers */ = {isa = PBXBuildFile; fileRef = 0B09F52014C9D5260048AB9A /* function_attributes.h */; };
-		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
-		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
-		288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
-		3939A12814E35A5800ADDAE2 /* SC_Reply.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3939A12714E35A5800ADDAE2 /* SC_Reply.cpp */; };
 		3939A12E14E35A8700ADDAE2 /* SC_Reply.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3939A12714E35A5800ADDAE2 /* SC_Reply.cpp */; };
-		5D560F4C199E87B5007CDE26 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5D560F4B199E87B5007CDE26 /* AVFoundation.framework */; };
-		5D5C0F35199EFD9400397E51 /* SuperCollider_BrowserPage.xib in Resources */ = {isa = PBXBuildFile; fileRef = 775995A512FDE51C00603187 /* SuperCollider_BrowserPage.xib */; };
-		5D89584919A1D34F002DAB7A /* synthdefs in Resources */ = {isa = PBXBuildFile; fileRef = 5D89584819A1D34F002DAB7A /* synthdefs */; };
 		5D8EA418199A05630026877D /* SC_PlugIn.hpp in Headers */ = {isa = PBXBuildFile; fileRef = 5D8EA417199A05630026877D /* SC_PlugIn.hpp */; };
-		5D990F7D199A5E6400974FE2 /* libsndfile.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5D990F78199A5E2300974FE2 /* libsndfile.a */; settings = {ATTRIBUTES = (Required, ); }; };
-		5D990FAF199A661B00974FE2 /* lockpool.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5D990FAE199A661B00974FE2 /* lockpool.cpp */; };
-		5D990FB6199A667200974FE2 /* error_code.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5D990FB4199A667200974FE2 /* error_code.cpp */; };
-		5DB12158199A53F2000D2100 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5DB12157199A53F2000D2100 /* Default-568h@2x.png */; };
-		770903C60F50A468005C05DC /* iscsynthAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 770903C20F50A468005C05DC /* iscsynthAppDelegate.m */; };
-		770903C70F50A468005C05DC /* iSCSynthController.mm in Sources */ = {isa = PBXBuildFile; fileRef = 770903C40F50A468005C05DC /* iSCSynthController.mm */; };
-		770903C80F50A468005C05DC /* iscsynthmain.m in Sources */ = {isa = PBXBuildFile; fileRef = 770903C50F50A468005C05DC /* iscsynthmain.m */; };
 		772C0EC312DA0F65009C0126 /* FFT_UGens.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7751B8430F43603A0044CAC0 /* FFT_UGens.cpp */; };
 		772C0ECA12DA0FC0009C0126 /* PV_UGens.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7751B85F0F43603A0044CAC0 /* PV_UGens.cpp */; };
 		772C0F0212DA1043009C0126 /* FFTInterfaceTable.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7751B8450F43603A0044CAC0 /* FFTInterfaceTable.cpp */; };
 		772C0F0312DA1047009C0126 /* PartitionedConvolution.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7751B85C0F43603A0044CAC0 /* PartitionedConvolution.cpp */; };
-		7742A4B60FEA960D00AE1A03 /* GendynUGens.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7751B8470F43603A0044CAC0 /* GendynUGens.cpp */; };
 		7742A4CE0FEA972500AE1A03 /* GendynUGens.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7751B8470F43603A0044CAC0 /* GendynUGens.cpp */; };
-		77476E9712FDE60E007449B3 /* Accelerate.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 77476E9612FDE60E007449B3 /* Accelerate.framework */; };
-		77476E9D12FDE61C007449B3 /* FFT_UGens.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7751B8430F43603A0044CAC0 /* FFT_UGens.cpp */; };
-		77476EA012FDE633007449B3 /* FFTInterfaceTable.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7751B8450F43603A0044CAC0 /* FFTInterfaceTable.cpp */; };
-		77476EA412FDE651007449B3 /* PartitionedConvolution.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7751B85C0F43603A0044CAC0 /* PartitionedConvolution.cpp */; };
-		77476EA512FDE652007449B3 /* PV_UGens.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7751B85F0F43603A0044CAC0 /* PV_UGens.cpp */; };
 		7751B8680F4363C40044CAC0 /* BinaryOpUGens.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7751B8390F43603A0044CAC0 /* BinaryOpUGens.cpp */; };
 		7751B87C0F4368070044CAC0 /* ChaosUGens.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7751B83A0F43603A0044CAC0 /* ChaosUGens.cpp */; };
 		7751B87E0F4368090044CAC0 /* DelayUGens.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7751B83D0F43603A0044CAC0 /* DelayUGens.cpp */; };
@@ -56,62 +36,8 @@
 		7751B8920F4368B00044CAC0 /* UnaryOpUGens.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7751B8650F43603A0044CAC0 /* UnaryOpUGens.cpp */; };
 		775384800FBDE6EA00DADEB2 /* iPhoneUGens.mm in Sources */ = {isa = PBXBuildFile; fileRef = 7751B84A0F43603A0044CAC0 /* iPhoneUGens.mm */; };
 		7759953912FDE0C900603187 /* SC_fftlib.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7759953812FDE0C900603187 /* SC_fftlib.cpp */; };
-		775995B712FDE5BB00603187 /* SC_fftlib.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7759953812FDE0C900603187 /* SC_fftlib.cpp */; };
-		775D93DA0F509D2F00112D87 /* SC_AllocPool.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 777249810EABE96E00732A1C /* SC_AllocPool.cpp */; };
-		775D93DB0F509D2F00112D87 /* SC_DirUtils.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 777249820EABE96E00732A1C /* SC_DirUtils.cpp */; };
-		775D93DC0F509D2F00112D87 /* SC_Sem.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 777249840EABE96E00732A1C /* SC_Sem.cpp */; };
-		775D93DD0F509D2F00112D87 /* SC_StringBuffer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 777249860EABE96E00732A1C /* SC_StringBuffer.cpp */; };
-		775D93DE0F509D2F00112D87 /* SC_StandAloneInfo_Darwin.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 777249850EABE96E00732A1C /* SC_StandAloneInfo_Darwin.cpp */; };
-		775D93DF0F509D2F00112D87 /* SC_StringParser.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 777249870EABE96E00732A1C /* SC_StringParser.cpp */; };
-		775D93E00F509D2F00112D87 /* scsynthsend.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 777249890EABE96E00732A1C /* scsynthsend.cpp */; };
-		775D93E10F509D2F00112D87 /* SC_Win32Utils.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 777249880EABE96E00732A1C /* SC_Win32Utils.cpp */; };
-		775D93E20F509D2F00112D87 /* Rendezvous.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 77724A070EABE96E00732A1C /* Rendezvous.cpp */; };
-		775D93E30F509D2F00112D87 /* Samp.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 77724A080EABE96E00732A1C /* Samp.cpp */; };
-		775D93E40F509D2F00112D87 /* SC_BufGen.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 77724A090EABE96E00732A1C /* SC_BufGen.cpp */; };
-		775D93E50F509D2F00112D87 /* SC_Carbon.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 77724A0A0EABE96E00732A1C /* SC_Carbon.cpp */; };
-		775D93E70F509D2F00112D87 /* SC_ComPort.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 77724A0C0EABE96E00732A1C /* SC_ComPort.cpp */; };
-		775D93E80F509D2F00112D87 /* SC_CoreAudio.mm in Sources */ = {isa = PBXBuildFile; fileRef = 77724A0D0EABE96E00732A1C /* SC_CoreAudio.mm */; };
-		775D93EA0F509D2F00112D87 /* SC_Errors.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 77724A0F0EABE96E00732A1C /* SC_Errors.cpp */; };
-		775D93EB0F509D2F00112D87 /* SC_Graph.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 77724A100EABE96E00732A1C /* SC_Graph.cpp */; };
-		775D93EC0F509D2F00112D87 /* SC_GraphDef.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 77724A110EABE96E00732A1C /* SC_GraphDef.cpp */; };
-		775D93ED0F509D2F00112D87 /* SC_Group.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 77724A120EABE96E00732A1C /* SC_Group.cpp */; };
-		775D93EE0F509D2F00112D87 /* SC_Lib.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 77724A140EABE96E00732A1C /* SC_Lib.cpp */; };
-		775D93EF0F509D2F00112D87 /* SC_MiscCmds.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 77724A160EABE96E00732A1C /* SC_MiscCmds.cpp */; };
-		775D93F00F509D2F00112D87 /* SC_Lib_Cintf.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 77724A150EABE96E00732A1C /* SC_Lib_Cintf.cpp */; };
-		775D93F10F509D2F00112D87 /* SC_Node.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 77724A170EABE96E00732A1C /* SC_Node.cpp */; };
-		775D93F20F509D2F00112D87 /* SC_SequencedCommand.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 77724A190EABE96E00732A1C /* SC_SequencedCommand.cpp */; };
-		775D93F30F509D2F00112D87 /* SC_Rate.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 77724A180EABE96E00732A1C /* SC_Rate.cpp */; };
-		775D93F40F509D2F00112D87 /* SC_Str4.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 77724A1A0EABE96E00732A1C /* SC_Str4.cpp */; };
-		775D93F60F509D2F00112D87 /* SC_Unit.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 77724A1C0EABE96E00732A1C /* SC_Unit.cpp */; };
-		775D93F70F509D2F00112D87 /* SC_UnitDef.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 77724A1D0EABE96E00732A1C /* SC_UnitDef.cpp */; };
-		775D93F80F509D2F00112D87 /* SC_World.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 77724A1E0EABE96E00732A1C /* SC_World.cpp */; };
-		775D93F90F509D2F00112D87 /* BinaryOpUGens.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7751B8390F43603A0044CAC0 /* BinaryOpUGens.cpp */; };
-		775D93FA0F509D2F00112D87 /* ChaosUGens.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7751B83A0F43603A0044CAC0 /* ChaosUGens.cpp */; };
-		775D93FB0F509D2F00112D87 /* DelayUGens.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7751B83D0F43603A0044CAC0 /* DelayUGens.cpp */; };
-		775D93FC0F509D2F00112D87 /* DemandUGens.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7751B83E0F43603A0044CAC0 /* DemandUGens.cpp */; };
-		775D93FD0F509D2F00112D87 /* DiskIO_UGens.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7751B83F0F43603A0044CAC0 /* DiskIO_UGens.cpp */; };
-		775D93FE0F509D2F00112D87 /* DynNoiseUGens.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7751B8400F43603A0044CAC0 /* DynNoiseUGens.cpp */; };
-		775D93FF0F509D2F00112D87 /* FilterUGens.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7751B8460F43603A0044CAC0 /* FilterUGens.cpp */; };
-		775D94000F509D2F00112D87 /* GrainUGens.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7751B8480F43603A0044CAC0 /* GrainUGens.cpp */; };
-		775D94010F509D2F00112D87 /* IOUGens.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7751B8490F43603A0044CAC0 /* IOUGens.cpp */; };
-		775D94020F509D2F00112D87 /* iPhoneUGens.mm in Sources */ = {isa = PBXBuildFile; fileRef = 7751B84A0F43603A0044CAC0 /* iPhoneUGens.mm */; };
-		775D94030F509D2F00112D87 /* LFUGens.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7751B84D0F43603A0044CAC0 /* LFUGens.cpp */; };
-		775D94040F509D2F00112D87 /* MulAddUGens.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7751B8540F43603A0044CAC0 /* MulAddUGens.cpp */; };
-		775D94050F509D2F00112D87 /* NoiseUGens.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7751B8550F43603A0044CAC0 /* NoiseUGens.cpp */; };
-		775D94060F509D2F00112D87 /* OscUGens.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7751B85A0F43603A0044CAC0 /* OscUGens.cpp */; };
-		775D94070F509D2F00112D87 /* PanUGens.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7751B85B0F43603A0044CAC0 /* PanUGens.cpp */; };
-		775D94080F509D2F00112D87 /* PhysicalModelingUGens.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7751B85D0F43603A0044CAC0 /* PhysicalModelingUGens.cpp */; };
-		775D94090F509D2F00112D87 /* ReverbUGens.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7751B8600F43603A0044CAC0 /* ReverbUGens.cpp */; };
-		775D940A0F509D2F00112D87 /* TestUGens.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7751B8630F43603A0044CAC0 /* TestUGens.cpp */; };
-		775D940B0F509D2F00112D87 /* TriggerUGens.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7751B8640F43603A0044CAC0 /* TriggerUGens.cpp */; };
-		775D940C0F509D2F00112D87 /* UnaryOpUGens.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7751B8650F43603A0044CAC0 /* UnaryOpUGens.cpp */; };
-		77724C6B0EABF92400732A1C /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 77724C6A0EABF92400732A1C /* AudioToolbox.framework */; };
-		77724C6D0EABF92400732A1C /* CoreAudio.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 77724C6C0EABF92400732A1C /* CoreAudio.framework */; };
-		7796FF7D148D8D12003E89BB /* tlsf.c in Sources */ = {isa = PBXBuildFile; fileRef = 7796FF6E148D8D12003E89BB /* tlsf.c */; };
 		7796FF81148D8D5C003E89BB /* scope_buffer.hpp in Headers */ = {isa = PBXBuildFile; fileRef = 7796FF7F148D8D5C003E89BB /* scope_buffer.hpp */; };
 		7796FF82148D8D5C003E89BB /* server_shm.hpp in Headers */ = {isa = PBXBuildFile; fileRef = 7796FF80148D8D5C003E89BB /* server_shm.hpp */; };
-		77A489390FBFA8DA00E909E1 /* SuperCollider_FileTransfer.xib in Resources */ = {isa = PBXBuildFile; fileRef = 77A489370FBFA8DA00E909E1 /* SuperCollider_FileTransfer.xib */; };
-		77A4896A0FBFAA1000E909E1 /* iscsynth_MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 778F12450F50A70400CB6629 /* iscsynth_MainWindow.xib */; };
 		77AA93A40EB368B700DC0BCB /* SC_AllocPool.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 777249810EABE96E00732A1C /* SC_AllocPool.cpp */; };
 		77AA93A50EB368B700DC0BCB /* SC_DirUtils.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 777249820EABE96E00732A1C /* SC_DirUtils.cpp */; };
 		77AA93A70EB368B700DC0BCB /* SC_Sem.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 777249840EABE96E00732A1C /* SC_Sem.cpp */; };
@@ -145,7 +71,6 @@
 		77AA94C60EB3692900DC0BCB /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
 		77AA94C70EB3692900DC0BCB /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 77724C6A0EABF92400732A1C /* AudioToolbox.framework */; };
 		77AA94C80EB3692900DC0BCB /* CoreAudio.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 77724C6C0EABF92400732A1C /* CoreAudio.framework */; };
-		77BA5027129C364A00CE89DD /* FileBrowserViewController.mm in Sources */ = {isa = PBXBuildFile; fileRef = 77BA5026129C364A00CE89DD /* FileBrowserViewController.mm */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -156,32 +81,12 @@
 			remoteGlobalIDString = D2AAC07E0554694100DB518D;
 			remoteInfo = libsndfile;
 		};
-		5D990F79199A5E2F00974FE2 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 5D990F73199A5E2300974FE2 /* libsndfile.xcodeproj */;
-			proxyType = 1;
-			remoteGlobalIDString = D2AAC07D0554694100DB518D;
-			remoteInfo = libsndfile;
-		};
 /* End PBXContainerItemProxy section */
-
-/* Begin PBXCopyFilesBuildPhase section */
-		774EF9B10EAD19F600F8A50D /* CopyFiles */ = {
-			isa = PBXCopyFilesBuildPhase;
-			buildActionMask = 12;
-			dstPath = "";
-			dstSubfolderSpec = 7;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-/* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
 		0B09F52014C9D5260048AB9A /* function_attributes.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = function_attributes.h; path = ../include/common/function_attributes.h; sourceTree = "<group>"; };
 		0B1F3B1514C9C2E900DCE518 /* SC_WorldOptions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SC_WorldOptions.h; sourceTree = "<group>"; };
 		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		1D6058910D05DD3D006BFB54 /* iscsynth.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iscsynth.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		288765FC0DF74451002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		3939A12714E35A5800ADDAE2 /* SC_Reply.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SC_Reply.cpp; sourceTree = "<group>"; };
@@ -428,21 +333,6 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				5D990F7D199A5E6400974FE2 /* libsndfile.a in Frameworks */,
-				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
-				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
-				288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */,
-				77724C6B0EABF92400732A1C /* AudioToolbox.framework in Frameworks */,
-				5D560F4C199E87B5007CDE26 /* AVFoundation.framework in Frameworks */,
-				77724C6D0EABF92400732A1C /* CoreAudio.framework in Frameworks */,
-				77476E9712FDE60E007449B3 /* Accelerate.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		77AA93900EB3685300DC0BCB /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -461,7 +351,6 @@
 		19C28FACFE9D520D11CA2CBB /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				1D6058910D05DD3D006BFB54 /* iscsynth.app */,
 				77AA93920EB3685400DC0BCB /* libscsynth.a */,
 			);
 			name = Products;
@@ -984,25 +873,6 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		1D6058900D05DD3D006BFB54 /* iscsynth */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "iscsynth" */;
-			buildPhases = (
-				1D60588D0D05DD3D006BFB54 /* Resources */,
-				1D60588E0D05DD3D006BFB54 /* Sources */,
-				1D60588F0D05DD3D006BFB54 /* Frameworks */,
-				774EF9B10EAD19F600F8A50D /* CopyFiles */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				5D990F7A199A5E2F00974FE2 /* PBXTargetDependency */,
-			);
-			name = iscsynth;
-			productName = iscsynth;
-			productReference = 1D6058910D05DD3D006BFB54 /* iscsynth.app */;
-			productType = "com.apple.product-type.application";
-		};
 		77AA93910EB3685300DC0BCB /* libscsynth */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 77AA939E0EB3687200DC0BCB /* Build configuration list for PBXNativeTarget "libscsynth" */;
@@ -1027,11 +897,6 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0500;
-				TargetAttributes = {
-					1D6058900D05DD3D006BFB54 = {
-						DevelopmentTeam = YC4UJA55P2;
-					};
-				};
 			};
 			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "iPhone_Synth" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -1053,7 +918,6 @@
 			);
 			projectRoot = "";
 			targets = (
-				1D6058900D05DD3D006BFB54 /* iscsynth */,
 				77AA93910EB3685300DC0BCB /* libscsynth */,
 			);
 		};
@@ -1069,91 +933,7 @@
 		};
 /* End PBXReferenceProxy section */
 
-/* Begin PBXResourcesBuildPhase section */
-		1D60588D0D05DD3D006BFB54 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				5D5C0F35199EFD9400397E51 /* SuperCollider_BrowserPage.xib in Resources */,
-				77A489390FBFA8DA00E909E1 /* SuperCollider_FileTransfer.xib in Resources */,
-				77A4896A0FBFAA1000E909E1 /* iscsynth_MainWindow.xib in Resources */,
-				5D89584919A1D34F002DAB7A /* synthdefs in Resources */,
-				5DB12158199A53F2000D2100 /* Default-568h@2x.png in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-/* End PBXResourcesBuildPhase section */
-
 /* Begin PBXSourcesBuildPhase section */
-		1D60588E0D05DD3D006BFB54 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				775D93DA0F509D2F00112D87 /* SC_AllocPool.cpp in Sources */,
-				775D93DB0F509D2F00112D87 /* SC_DirUtils.cpp in Sources */,
-				775D93DC0F509D2F00112D87 /* SC_Sem.cpp in Sources */,
-				775D93DD0F509D2F00112D87 /* SC_StringBuffer.cpp in Sources */,
-				775D93DE0F509D2F00112D87 /* SC_StandAloneInfo_Darwin.cpp in Sources */,
-				775D93DF0F509D2F00112D87 /* SC_StringParser.cpp in Sources */,
-				775D93E00F509D2F00112D87 /* scsynthsend.cpp in Sources */,
-				775D93E10F509D2F00112D87 /* SC_Win32Utils.cpp in Sources */,
-				775D93E20F509D2F00112D87 /* Rendezvous.cpp in Sources */,
-				775D93E30F509D2F00112D87 /* Samp.cpp in Sources */,
-				775D93E40F509D2F00112D87 /* SC_BufGen.cpp in Sources */,
-				775D93E50F509D2F00112D87 /* SC_Carbon.cpp in Sources */,
-				775D93E70F509D2F00112D87 /* SC_ComPort.cpp in Sources */,
-				775D93E80F509D2F00112D87 /* SC_CoreAudio.mm in Sources */,
-				775D93EA0F509D2F00112D87 /* SC_Errors.cpp in Sources */,
-				5D990FB6199A667200974FE2 /* error_code.cpp in Sources */,
-				775D93EB0F509D2F00112D87 /* SC_Graph.cpp in Sources */,
-				775D93EC0F509D2F00112D87 /* SC_GraphDef.cpp in Sources */,
-				775D93ED0F509D2F00112D87 /* SC_Group.cpp in Sources */,
-				775D93EE0F509D2F00112D87 /* SC_Lib.cpp in Sources */,
-				775D93EF0F509D2F00112D87 /* SC_MiscCmds.cpp in Sources */,
-				775D93F00F509D2F00112D87 /* SC_Lib_Cintf.cpp in Sources */,
-				775D93F10F509D2F00112D87 /* SC_Node.cpp in Sources */,
-				775D93F20F509D2F00112D87 /* SC_SequencedCommand.cpp in Sources */,
-				775D93F30F509D2F00112D87 /* SC_Rate.cpp in Sources */,
-				775D93F40F509D2F00112D87 /* SC_Str4.cpp in Sources */,
-				775D93F60F509D2F00112D87 /* SC_Unit.cpp in Sources */,
-				775D93F70F509D2F00112D87 /* SC_UnitDef.cpp in Sources */,
-				775D93F80F509D2F00112D87 /* SC_World.cpp in Sources */,
-				775D93F90F509D2F00112D87 /* BinaryOpUGens.cpp in Sources */,
-				775D93FA0F509D2F00112D87 /* ChaosUGens.cpp in Sources */,
-				775D93FB0F509D2F00112D87 /* DelayUGens.cpp in Sources */,
-				775D93FC0F509D2F00112D87 /* DemandUGens.cpp in Sources */,
-				775D93FD0F509D2F00112D87 /* DiskIO_UGens.cpp in Sources */,
-				775D93FE0F509D2F00112D87 /* DynNoiseUGens.cpp in Sources */,
-				5D990FAF199A661B00974FE2 /* lockpool.cpp in Sources */,
-				775D93FF0F509D2F00112D87 /* FilterUGens.cpp in Sources */,
-				775D94000F509D2F00112D87 /* GrainUGens.cpp in Sources */,
-				775D94010F509D2F00112D87 /* IOUGens.cpp in Sources */,
-				775D94020F509D2F00112D87 /* iPhoneUGens.mm in Sources */,
-				775D94030F509D2F00112D87 /* LFUGens.cpp in Sources */,
-				775D94040F509D2F00112D87 /* MulAddUGens.cpp in Sources */,
-				775D94050F509D2F00112D87 /* NoiseUGens.cpp in Sources */,
-				775D94060F509D2F00112D87 /* OscUGens.cpp in Sources */,
-				775D94070F509D2F00112D87 /* PanUGens.cpp in Sources */,
-				775D94080F509D2F00112D87 /* PhysicalModelingUGens.cpp in Sources */,
-				775D94090F509D2F00112D87 /* ReverbUGens.cpp in Sources */,
-				775D940A0F509D2F00112D87 /* TestUGens.cpp in Sources */,
-				775D940B0F509D2F00112D87 /* TriggerUGens.cpp in Sources */,
-				775D940C0F509D2F00112D87 /* UnaryOpUGens.cpp in Sources */,
-				770903C60F50A468005C05DC /* iscsynthAppDelegate.m in Sources */,
-				770903C70F50A468005C05DC /* iSCSynthController.mm in Sources */,
-				770903C80F50A468005C05DC /* iscsynthmain.m in Sources */,
-				7742A4B60FEA960D00AE1A03 /* GendynUGens.cpp in Sources */,
-				77BA5027129C364A00CE89DD /* FileBrowserViewController.mm in Sources */,
-				775995B712FDE5BB00603187 /* SC_fftlib.cpp in Sources */,
-				77476E9D12FDE61C007449B3 /* FFT_UGens.cpp in Sources */,
-				77476EA012FDE633007449B3 /* FFTInterfaceTable.cpp in Sources */,
-				77476EA412FDE651007449B3 /* PartitionedConvolution.cpp in Sources */,
-				77476EA512FDE652007449B3 /* PV_UGens.cpp in Sources */,
-				7796FF7D148D8D12003E89BB /* tlsf.c in Sources */,
-				3939A12814E35A5800ADDAE2 /* SC_Reply.cpp in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		77AA938F0EB3685300DC0BCB /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -1218,70 +998,7 @@
 		};
 /* End PBXSourcesBuildPhase section */
 
-/* Begin PBXTargetDependency section */
-		5D990F7A199A5E2F00974FE2 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = libsndfile;
-			targetProxy = 5D990F79199A5E2F00974FE2 /* PBXContainerItemProxy */;
-		};
-/* End PBXTargetDependency section */
-
 /* Begin XCBuildConfiguration section */
-		1D6058940D05DD3E006BFB54 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				COPY_PHASE_STRIP = NO;
-				GCC_DYNAMIC_NO_PIC = NO;
-				GCC_OPTIMIZATION_LEVEL = 0;
-				GCC_PRECOMPILE_PREFIX_HEADER = NO;
-				GCC_PREFIX_HEADER = "";
-				GCC_PREPROCESSOR_DEFINITIONS = (
-					SC_IPHONE,
-					STATIC_PLUGINS,
-					NOVA_SIMD,
-				);
-				GCC_THUMB_SUPPORT = NO;
-				INFOPLIST_FILE = "iPhone Resources/iscsynth.plist";
-				LIBRARY_SEARCH_PATHS = (
-					"$(inherited)",
-					lib,
-				);
-				PRODUCT_NAME = iscsynth;
-				PROVISIONING_PROFILE = "";
-				SYMROOT = build_iphone;
-			};
-			name = Debug;
-		};
-		1D6058950D05DD3E006BFB54 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				COPY_PHASE_STRIP = YES;
-				GCC_PRECOMPILE_PREFIX_HEADER = NO;
-				GCC_PREFIX_HEADER = "";
-				GCC_PREPROCESSOR_DEFINITIONS = (
-					SC_IPHONE,
-					STATIC_PLUGINS,
-					NDEBUG,
-					NOVA_SIMD,
-				);
-				GCC_THUMB_SUPPORT = NO;
-				INFOPLIST_FILE = "iPhone Resources/iscsynth.plist";
-				LIBRARY_SEARCH_PATHS = (
-					"$(inherited)",
-					lib,
-				);
-				PRODUCT_NAME = iscsynth;
-				PROVISIONING_PROFILE = "";
-				SYMROOT = build_iphone;
-			};
-			name = Release;
-		};
 		77AA93930EB3685400DC0BCB /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -1352,7 +1069,6 @@
 				OBJROOT = build;
 				ONLY_ACTIVE_ARCH = YES;
 				PREBINDING = NO;
-				PROVISIONING_PROFILE = "9ECD5F88-AAF6-46C2-8DBA-5868AC84948F";
 				SDKROOT = iphoneos;
 				SYMROOT = lib;
 			};
@@ -1373,7 +1089,6 @@
 				);
 				OBJROOT = build;
 				PREBINDING = NO;
-				PROVISIONING_PROFILE = "9ECD5F88-AAF6-46C2-8DBA-5868AC84948F";
 				SDKROOT = iphoneos;
 				SYMROOT = lib;
 			};
@@ -1382,15 +1097,6 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "iscsynth" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				1D6058940D05DD3E006BFB54 /* Debug */,
-				1D6058950D05DD3E006BFB54 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
 		77AA939E0EB3687200DC0BCB /* Build configuration list for PBXNativeTarget "libscsynth" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
